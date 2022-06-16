@@ -1,11 +1,9 @@
 ---
-title: 'My brother stinks'
-date: '2020-01-01'
+title: 'Questions?Answers?'
+date: '2020-06-16'
 ---
 
-Next.js has two forms of pre-rendering: **Static Generation** and **Server-side Rendering**. The difference is in **when** it generates the HTML for a page.
+**Let's pretend that I have questions here because I have no ideas what I'm doing🥴🥴** 
 
-- **Static Generation** is the pre-rendering method that generates the HTML at **build time**. The pre-rendered HTML is then _reused_ on each request.
-- **Server-side Rendering** is the pre-rendering method that generates the HTML on **each request**.
-
-Importantly, Next.js lets you **choose** which pre-rendering form to use for each page. You can create a "hybrid" Next.js app by using Static Generation for most pages and using Server-side Rendering for others.
+* I mean...if you guys do have questions for me, feel free to message or email me.
+* If you guys are my friends and planning on spamming me...i see you...👀
