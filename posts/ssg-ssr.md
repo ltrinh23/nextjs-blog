@@ -1,5 +1,5 @@
 ---
-title: 'When to Use Static Generation v.s. Server-side Rendering'
+title: 'part two of my brother stinkiness'
 date: '2020-01-02'
 ---
 
