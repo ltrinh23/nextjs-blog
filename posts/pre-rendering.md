@@ -1,5 +1,5 @@
 ---
-title: 'Two Forms of Pre-rendering'
+title: 'My brother stinks'
 date: '2020-01-01'
 ---
 
