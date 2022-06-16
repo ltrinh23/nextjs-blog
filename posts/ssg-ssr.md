@@ -1,6 +1,6 @@
 ---
-title: 'part two of my brother stinkiness'
-date: '2020-01-02'
+title: 'Quotes'
+date: '2020-06-16'
 ---
 
 **Welcome to My Quotes Section** 
